@@ -1,0 +1,4 @@
+git fetch remotename
+git fetch remotename remotebranch
+
+git diff localbranch..remotename/remotebranch

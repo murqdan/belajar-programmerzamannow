@@ -1,0 +1,1 @@
+git commit --amend -m "message" // ingat, melakukan ini akan mengubah hash!

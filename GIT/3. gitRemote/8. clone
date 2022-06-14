@@ -1,0 +1,2 @@
+git clone urlremoterepository
+git clone urlremoterepository foldername // to create a clone with a different name

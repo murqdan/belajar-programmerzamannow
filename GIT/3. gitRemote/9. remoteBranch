@@ -1,0 +1,5 @@
+git branch (--remote/ -r) // to see all branch list in the remote repository
+git branch (--all/ -a) // to see all branch list in local and in the remote repository
+
+git checkout -b localbranch remotename/remotebranch
+for example: git checkout -b feature/a origin/feature/a

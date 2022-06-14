@@ -1,0 +1,1 @@
+git merge branchname // before doing the merge, we need to move to the branch where the location of the merge will be done

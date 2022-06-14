@@ -1,0 +1,7 @@
+git submodule add urlgitrepo foldername
+
+git submodule update --remote foldername / git pull remotename remotebranchname
+git submodule update --remote
+
+git submodule init // to activate the submodule
+git submodule set-branch --branch branchname foldername

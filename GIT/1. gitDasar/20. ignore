@@ -1,0 +1,12 @@
+// you can add file .gitignore in repository
+// and add each line containing a file or folder
+// for example :
+
+# Ignore folder log
+log/
+
+# Ignore files with extension .backup
+*.backup
+
+# Ignore file
+ignore.txt

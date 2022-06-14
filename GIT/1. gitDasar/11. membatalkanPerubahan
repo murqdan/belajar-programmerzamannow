@@ -1,0 +1,4 @@
+git clean -f
+git restore filename
+
+git restore --staged filename

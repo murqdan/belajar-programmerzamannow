@@ -1,0 +1,4 @@
+git tag tagname hash
+git tag (--list/ -l)
+git switch tagname
+git tag (--delete/ -d) tagname

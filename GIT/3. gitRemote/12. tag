@@ -1,0 +1,8 @@
+git push remotename tagname
+git push remotename --tags
+
+git fetch remotename tagname
+git fetch remotename
+
+git tag (--delete/ -d) tagname
+git push (--delete/ -d) remotename tagname

@@ -1,0 +1,3 @@
+git reset (mode: --soft/ --mixed/ --hard) hash
+
+git push remotename +localbranch --force // to remove a commit on github

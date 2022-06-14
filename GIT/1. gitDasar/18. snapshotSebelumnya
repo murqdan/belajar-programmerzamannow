@@ -1,0 +1,4 @@
+git checkout hash
+git checkout branchname
+
+git branch --show-current

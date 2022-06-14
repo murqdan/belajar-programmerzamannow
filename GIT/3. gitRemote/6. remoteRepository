@@ -1,0 +1,4 @@
+git remote add (name/ origin) ssh-url
+git remote
+git remote get-url name
+git remote rm name

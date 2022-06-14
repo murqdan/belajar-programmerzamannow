@@ -1,0 +1,7 @@
+git stash push -m 'message'
+git stash list // to see all stash
+git stash show stashid
+
+git stash apply stashid
+git stash drop stashid
+git stash clear // to delete all stash

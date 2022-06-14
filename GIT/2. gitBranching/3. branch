@@ -1,0 +1,6 @@
+git branch --show-current // view current branch
+git branch newbranchname // make a new branch
+git branch (--list) // see all branches
+git switch branchname / git checkout branchname // move to another branch
+git branch -m newbranchname // to rename branch
+git branch (--delete/ -d) branchname // to delete branch

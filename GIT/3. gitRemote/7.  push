@@ -1,0 +1,4 @@
+git push remotename localbranch
+git push remotename localbranch:newremotebranchname
+git push origin --all
+git push --delete remotename branchname 

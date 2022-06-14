@@ -1,0 +1,11 @@
+// you can create as many branches as you want
+
+                     __________(feature/2)
+                    / 
+                    |  ________(feature/1)
+                    | / 
+----------------------(master)
+                    | \________(feature/3)
+                    |
+                    \__________(feature/4)
+

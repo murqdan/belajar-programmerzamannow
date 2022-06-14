@@ -1,0 +1,3 @@
+touch filename  
+git add (filename/ filename filename/ .)
+git commit -m "message"
